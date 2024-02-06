@@ -1,2 +1,1 @@
-#Sample-Repo
-This is just a testing repo(Central repo)
+This is just to read msg in DV1 branch
