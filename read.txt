@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 this is to read the msg
 we are changing from DV branch
 this is the msg from DV1 branch
 changes are done from DV1 branch
 
 
+=======
+this is the msg from DV1 branch
+this is to read the msg
+changes are done from DV1 branch
+>>>>>>> DV1
